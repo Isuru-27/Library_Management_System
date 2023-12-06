@@ -2,8 +2,10 @@
 
 Welcome to Sipsayura Library! This Java project implements a simple library management system where users can view available books, borrow and return books, and add new books to the library.
 
-## Table of ![out1](https://github.com/Isuru-27/Library_Management_System/assets/139687227/8b50bd61-3bfc-4e31-a118-385d8adf2fdd)
-Contents
+![out1](https://github.com/Isuru-27/Library_Management_System/assets/139687227/0471088a-6b96-4d11-88d3-c3c7b758388a)
+
+
+## Table of Contents
 - [Features](#features)
 - [Usage](#usage)
 - [How to Contribute](#how-to-contribute)
