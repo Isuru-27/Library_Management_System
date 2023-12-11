@@ -7,6 +7,8 @@ Welcome to Sipsayura Library! This Java project implements a simple library mana
 - [Usage](#usage)
 - [How to Contribute](#how-to-contribute)
 - [License](#license)
+  
+![out1](https://github.com/Isuru-27/Library_Management_System/assets/139687227/d05a2e71-e7c2-48a8-acd7-039aba3059cf)
 
 ## Features
 
