@@ -24,22 +24,36 @@ Welcome to Sipsayura Library! This Java project implements a simple library mana
 1. **Display Available Books**
    - View a list of available fiction and nonfiction books in the library.
      
+     ![out2](https://github.com/Isuru-27/Library_Management_System/assets/139687227/601c46f3-92d3-4da6-a20d-b5b02d62cd81)
+
 
 2. **Borrow a Book**
    - Enter the ISBN of the book you want to borrow.
    - Specify whether the book is fiction (true) or nonfiction (false).
    - Successfully borrowed books are added to your borrowed books list.
 
+     ![out3](https://github.com/Isuru-27/Library_Management_System/assets/139687227/0f410f2d-da55-4c5e-9271-091e48821fb4)
+
+
 3. **Return a Book**
    - Enter the ISBN of the book you want to return.
    - If the book is found in your borrowed list, it will be returned to the library.
+  
+     ![out5](https://github.com/Isuru-27/Library_Management_System/assets/139687227/e537c6cd-162f-45e9-8636-f9da5732e8e1)
+
 
 4. **Add a New Book**
    - Specify whether the new book is fiction (true) or nonfiction (false).
    - Enter details for the new book, including title, author, and ISBN.
+  
+     ![out6](https://github.com/Isuru-27/Library_Management_System/assets/139687227/d5696ab2-0c21-43a7-9687-4d862dd7fc13)
+
 
 5. **Exit**
    - Exit the Sipsayura Library Management system.
+  
+     ![out7](https://github.com/Isuru-27/Library_Management_System/assets/139687227/7943d641-96bf-49e4-9503-9c1e6287a664)
+
 
 ## How to Contribute
 
